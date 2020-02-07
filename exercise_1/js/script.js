@@ -27,3 +27,22 @@ notification.style.display = "none";
 
 
 notification.addEventListener("click", showBanner);
+// 2::::
+/*
+ The notification banner should not always show.
+ 1. only show the notification banner when you click the login button. (clue, this is an event.)
+*/
+
+// 3::::
+/*
+  The hero banner looks sad without an image, please add a nice photo as background image to the hero banner.
+*/
+
+// 4::::
+/*
+  The Grid. This is the most popular news website, better than vg.no
+
+  1. create an object for a news article
+    1.1 it must have a Title, Image, and Text property and url property.
+  2. use this object to update the front end of the first green block in the the grid.
+*/
