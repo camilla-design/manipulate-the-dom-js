@@ -15,3 +15,8 @@ There is a notification banner on the site
  The notification banner should not always show.
  1. only show the notification banner when you click the login button. (clue, this is an event.)
 */
+
+// 3::::
+/*
+  The hero banner looks sad without an image, please add a nice photo as background image to the hero banner.
+*/
