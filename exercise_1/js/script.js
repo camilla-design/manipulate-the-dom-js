@@ -20,3 +20,12 @@ There is a notification banner on the site
 /*
   The hero banner looks sad without an image, please add a nice photo as background image to the hero banner.
 */
+
+// 4::::
+/*
+  The Grid. This is the most popular news website, better than vg.no
+
+  1. create an object for a news article
+    1.1 it must have a Title, Image, and Text property and url property.
+  2. use this object to update the front end of the first green block in the the grid.
+*/
